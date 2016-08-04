@@ -1,0 +1,8 @@
+AnneLatner:       B
+ArianaB.Smith:       A
+BillGates:       F
+EmilyGonzales:       B
+EscobarMorris:       C
+JenniferL:       B
+MariaJones:       D
+ThuiBhu:       A
